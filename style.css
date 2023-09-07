@@ -1,0 +1,162 @@
+.one{
+    /* background-color: blue; */
+    width: 1024px;
+    height: 118px;
+}
+.two{
+    background-color:rgba(29, 28, 28, 0.5);
+    width: 1024px;
+    height: 40px;
+}
+.three{
+    /* background-color: green; */
+    width: 1024px;
+    height: 400px;
+}
+.four{
+    background-color:black;
+    width: 1024px;
+    height: 500px;
+}
+.five{
+    /* background-color: black; */
+    width: 1024px;
+    height: 40px;
+}
+body{
+    background-image: url(background.jpg);
+}
+a{
+    color:white; text-decoration: none;
+}
+nav{
+    padding-top:10px;
+}
+nav a{
+    padding:0px 20px;
+}
+.meat{
+    color: white;
+    font: size 100px;
+}
+.p{
+    color:white;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-size: large;
+}
+.ft{
+    color:white;
+}
+.bd{
+    background-image: url(background.jpg)
+}
+.one{
+    color:white;
+}
+.two{
+    color:white;
+    position: fixed;
+    left:170px;
+}
+.three{
+    color:white;
+}
+.cl{
+    width: 1024px;
+    height: 118px;
+}
+.g{
+    color:white;
+}
+.f{
+    color: white;
+}
+.t{
+    color:white;
+}
+.lg{
+    width: 1024px;
+    height: 118px;
+}
+.cls{
+    background-image:url(background.jpg);
+}
+.ar{
+    width: 1024px;
+    height: 118px;
+}
+.h{
+    color:white;
+}
+.u{
+    color: white;
+}
+.y{
+    background-image:url(background.jpg);
+}
+.m{
+    color: white;
+}
+.pa{
+    color: white;
+}
+.bf{
+    color: white;
+}
+.lm{
+    color: white;
+}
+.pt{
+    color: white;
+}
+.wh{
+    color: white;
+}
+.sl{
+    color: white;
+}
+.ip{
+    color: white;
+}
+.pk{
+    color: white;
+}
+.s{
+    color: white;
+}
+.t{
+    color: white;
+}
+.u{
+    color: white;
+}
+.v{
+    color: white;
+}
+.w{
+    color: white;
+}
+.as{
+    color: white;
+}
+.ss{
+    color: white;
+}
+.tt{
+    border-style:solid;
+}
+.ct{
+    border-style:solid;
+}
+.ul{
+    color: white;
+}
+.wp{
+    color: white;
+}
+.ds{
+    color: white;
+}
+.yt{
+    position: fixed;
+}
